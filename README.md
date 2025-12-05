@@ -8,5 +8,8 @@ Conventional fuel vehicles include petrol and diesel vehicles.
 Alternative fuel vehicles include EVs, Hybrid vehicles, and other alternative fuel categories.
 The chart features interactive tooltips, a vertical hover line, and in-line series labels.
 
+# Viz
+https://qamart-illumitics.github.io/New-Car-Sales/
+
 # Data Source
 Land Transport Authority (LTA): https://datamall.lta.gov.sg/content/datamall/en/static-data.html
